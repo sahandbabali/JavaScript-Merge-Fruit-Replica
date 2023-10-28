@@ -2,6 +2,7 @@ body {
   background-color: #eac696;
   margin: 0;
   padding: 0;
+  overflow: hidden; /* Hide scrollbars */
 }
 
 .navbar {
